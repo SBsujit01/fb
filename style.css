@@ -57,9 +57,8 @@ header{
 	border: none;
 }
 .login{
-	position: relative;
-	right: -410px;
-	top: -5px;
+	top: 35px;
+	position: fixed;
 	height:20px;
 	background: #3B5988;
 	color: white;
