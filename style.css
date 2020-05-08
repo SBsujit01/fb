@@ -124,6 +124,7 @@ h1{
  color:#0e385f;
 }
 .First-name{
+	outline-style: none;
 	float: left;
 	width: 46%;
 	border-radius: 5px;
@@ -134,6 +135,7 @@ h1{
 
 }
 .Surname{
+	outline-style: none;
 	margin-left: 3%;
 	float: right;
 	width: 46%;
@@ -144,6 +146,7 @@ h1{
 	 border:1px solid #BDBDBD;
 }
 .Mobile{
+	outline-style: none;
 	position: relative;
 	top: 10px;
 	width:98%;
@@ -154,6 +157,7 @@ h1{
 	 border:1px solid #BDBDBD;
 }
 .word{
+	outline-style: none;
 	position: relative;
 	top: 20px;
 	width:98%;
